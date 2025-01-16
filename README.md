@@ -33,7 +33,9 @@ cd Food-Delivery
 Install the necessary dependencies by running the following command:
 
 bash
+
 Copy
+
 Edit
 npm install
 This will install all the required dependencies as defined in package.json.
@@ -42,7 +44,9 @@ This will install all the required dependencies as defined in package.json.
 To run the app in development mode, use the following command:
 
 bash
+
 Copy
+
 Edit
 npm start
 This will start the development server and open the app in your default web browser. You can access the app at http://localhost:3000.
@@ -51,7 +55,9 @@ This will start the development server and open the app in your default web brow
 To create an optimized production build, run:
 
 bash
+
 Copy
+
 Edit
 npm run build
 This will create a build folder with the optimized production files.
@@ -74,7 +80,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Command Summary
 Clone the repository:
-git clone https://github.com/your-username/Food-Delivery.git
+git clone https://github.com//kishorsamruddhi/Food-Delivery.git
 
 Navigate to the project folder:
 cd Food-Delivery
