@@ -1,5 +1,5 @@
 # Food Delivery App
-# Food Delivery App
+
 
 A simple, user-friendly food delivery web app built with React. This app allows users to browse restaurants, view menus, place orders, and track their delivery status.
 
