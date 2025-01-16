@@ -21,7 +21,7 @@ First, clone the repository to your local machine using the following command:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Food-Delivery.git
+git clone https://github.com//kishorsamruddhi/Food-Delivery.git
 2. Navigate to the project folder
 Change directory into the project folder:
 
